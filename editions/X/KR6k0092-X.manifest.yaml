@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6k0092/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0092/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經菩薩戒本疏
+  identifiers:
+    krp: KR6k0092
+    cbeta: X38n0687
+    cbeta_old_id: X38n0687
+    authorityid: CA0000979
+    json_key: X0687
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X38/X38n0687.xml
+    old_id: X38n0687
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0092_000-X.yaml, hash: 'sha256:bdb4f211f479bede152db2bed85ae4210786e1e31d219d8f05c9533cae9f7882'}
+  - {seq: 2, filename: KR6k0092_002-X.yaml, hash: 'sha256:180a329975612a495351959fb35660bf5a4091b6b84d7dde8c0cc842699921eb'}
+  - {seq: 4, filename: KR6k0092_004-X.yaml, hash: 'sha256:158d742b7f49c61c135f13918e2e41c218df143f2484710c6f344514930636be'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0092_000-X.markers.yaml, hash: 'sha256:5a1fbf8615b95953d45c2412ebc17844a42bf0f68e800c54941b34bd36af3702'}
+  - {seq: 2, role: markers, filename: assets/KR6k0092_002-X.markers.yaml, hash: 'sha256:b8c740ca4df5692ddac8234da1f7aa3fd5653b8b5b2877ffcf3ddb7ef9219fd4'}
+  - {seq: 4, role: markers, filename: assets/KR6k0092_004-X.markers.yaml, hash: 'sha256:c573268a036f7f4e007c9413bd285de98ab909648c53d79c98b8d7efb3d42195'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6k0092_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18704
+  label: 梵網經疏卷第二頭起佛坐菩提樹尾盡不婬戒
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0092_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15736
+  label: 梵網經疏卷第四
+  type: juan
+  level: 1
+hash: sha256:2e26decba70d18be885fe5e28aa8f85addb1c56ebe61ec9cbb0c241782b59935
