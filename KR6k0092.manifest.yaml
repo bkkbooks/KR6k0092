@@ -26,8 +26,8 @@ assets:
   - {seq: 4, filename: KR6k0092_004.yaml, hash: 'sha256:82c73b9fb3073bfd28765ba55ad0e538ffd613ff66c76e8cb86dbb9efc035df3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0092_000.markers.yaml, hash: 'sha256:6fa07b47497d5694d91dbad63c5b93b5f73f0ffa1014d5e5d7245e4e2278d263'}
-  - {seq: 2, role: markers, filename: assets/KR6k0092_002.markers.yaml, hash: 'sha256:19f95a91989d2195f3d2295ecb50872c28bf92279b9c7e517a5b38eb9c88453c'}
-  - {seq: 4, role: markers, filename: assets/KR6k0092_004.markers.yaml, hash: 'sha256:dae9babe8f165b14764655ca8bb674e238c0fa647d78451dd06ee0f7e89a103c'}
+  - {seq: 2, role: markers, filename: assets/KR6k0092_002.markers.yaml, hash: 'sha256:4ad8e3610f991d1556e6c6da2cd834e2507c4117becfd7421e431a76624bd1cb'}
+  - {seq: 4, role: markers, filename: assets/KR6k0092_004.markers.yaml, hash: 'sha256:172a175f2e80c27ec76a82e5329cb0657aca39b49acec5b1c844293fb728e657'}
 table_of_contents:
 - ref:
     seq: 2
@@ -49,7 +49,7 @@ table_of_contents:
   label: 梵網經疏卷第四
   type: juan
   level: 1
-hash: sha256:83c5221dddaecae8e8e8dbef6d5e67ab054e1852497e20e1500a12bc09070a02
+hash: sha256:2e855e22e3b9325b331c1190eb9c955b5da9c47f81f3e99113b784013515eb14
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
